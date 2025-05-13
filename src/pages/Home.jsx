@@ -1,6 +1,6 @@
 import React from 'react';
 import logos from '/data/logos.json'; // Make sure this path is accurate
-import imgTypography from '/public/images/HOME/Typography.png';
+import imgTypography from '/images/HOME/Typography.png';
 
 const categories = [
   { name: 'Print', className: 'print' },
@@ -50,8 +50,34 @@ const Home = ({ onSelectItem, items }) => {
           className="full-width-image"
         />
  
-     
-   
+      </section>
+      <section className="banner-section">
+        <img
+          src="../images/Home/Typography.png"
+          alt="Typography skills"
+          className="full-width-image"
+        />
+      </section>
+      <section className="banner-section">
+        <img
+          src="/dist/images/Home/Typography.png"
+          alt="Typography skills"
+          className="full-width-image"
+        />
+      </section>
+      <section className="banner-section">
+        <img
+          src="images/Home/Typography.png"
+          alt="Typography skills"
+          className="full-width-image"
+        />
+      </section>
+      <section className="banner-section">
+        <img
+          src="dist/Home/Typography.png"
+          alt="Typography skills"
+          className="full-width-image"
+        />
       </section>
 
       {/* ============ Skills Section ============ */}
