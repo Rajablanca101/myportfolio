@@ -78,7 +78,7 @@ const Design = () => {
       {/* Image Section */}
       <section className="banner-section process">
         <img
-          src="/images/Design/Branding-process.png"
+          src="../dist/images/Design/Branding-process.png"
           alt="Skills Overview"
           className="full-width-image"
         />
