@@ -1,6 +1,6 @@
 import React from 'react';
 import logos from '/data/logos.json'; // Make sure this path is accurate
-import imgTypography from '/images/HOME/Typography.png';
+import imgTypography from '/images/Home/Typography.png';
 
 const categories = [
   { name: 'Print', className: 'print' },
