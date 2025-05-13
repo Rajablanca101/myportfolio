@@ -36,7 +36,7 @@ const Home = ({ onSelectItem, items }) => {
 
       {/* ============ Typography Intro ============ */}
       <section className="typography">
-        <h2>World of Creativity</h2>
+        <h2>World of Creativity!</h2>
         <p className="gradient-text2">
           Welcome to my digital domain! I'm Mourad Saleh, a visual designer with a Bachelor's degree from Harvard Extension School. With a background in graphic design and a flair for adapting to diverse business needs, I bring a wealth of experience to the digital world.
         </p>
