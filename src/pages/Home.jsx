@@ -63,6 +63,13 @@ const Home = ({ onSelectItem, items }) => {
           className="full-width-image"
         />
       </section>
+      <section className="banner-section">
+        <img
+          src="images/Home/Typography.png"
+          alt="Typography skills"
+          className="full-width-image"
+        />
+      </section>
 
       {/* ============ Skills Section ============ */}
       <section className="redbox">
