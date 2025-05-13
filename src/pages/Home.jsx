@@ -44,7 +44,21 @@ const Home = ({ onSelectItem, items }) => {
 
       <section className="banner-section">
         <img
+          src="../dist/images/Home/Typography.png"
+          alt="Typography skills"
+          className="full-width-image"
+        />
+      </section>
+      <section className="banner-section">
+        <img
           src="../images/Home/Typography.png"
+          alt="Typography skills"
+          className="full-width-image"
+        />
+      </section>
+      <section className="banner-section">
+        <img
+          src="/dist/images/Home/Typography.png"
           alt="Typography skills"
           className="full-width-image"
         />
