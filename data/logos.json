@@ -1,0 +1,59 @@
+[{
+    "id": 1,
+    "title": "Bright",
+    "category": "logo",
+    "image": "/images/Home/logos/logo1.png",
+    "tags": ["logo"]
+  },
+  {
+    "id": 2,
+    "title": "Starz",
+    "category": "logo",
+    "image": "/images/Home/logos/logo2.png",
+    "tags": ["logo"]
+  },
+  {
+    "id": 3,
+    "title": "Busy Bees",
+    "category": "logo",
+    "image": "/images/Home/logos//logo3.png",
+    "tags": ["logo"]
+  },
+  {
+    "id": 4,
+    "title": "Lahlou Design",
+    "category": "logo",
+    "image": "/images/Home/logos/logo4.png",
+    "tags": ["logo"]
+  },
+  {
+    "id": 5,
+    "title": "BBL",
+    "category": "logo",
+    "image": "/images/Home/logos/logo5.png",
+    "tags": ["logo"]
+  },
+  {
+    "id": 6,
+    "title": " IT Global",
+    "category": "logo",
+    "image": "/images/Home/logos/logo6.png",
+    "tags": ["logo"]
+  }
+  ,
+  {
+    "id": 7,
+    "title": "MCSA",
+    "category": "logo",
+    "image": "/images/Home/logos/logo7.png",
+    "tags": ["logo"]
+  }
+  ,
+  {
+    "id": 8,
+    "title": "Morocco Valunteer",
+    "category": "logo",
+    "image": "/images/Home/logos/logo8.png",
+    "tags": ["logo"]
+  }
+]

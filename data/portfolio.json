@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "title": "Dell Handout",
+    "category": "print",
+    "image": "/images/Design/Print-1.jpg",
+    "tags": ["handout"]
+  },
+  {
+    "id": 2,
+    "title": "Thriv Table Tente",
+    "category": "print",
+    "image": "/images/Design/Print-2.jpg",
+    "tags": ["tente"]
+  },
+  {
+    "id": 3,
+    "title": "GMcafee Logo",
+    "category": "logo",
+    "image": "/images/Design/Logo-1.jpg",
+    "tags": ["logo"]
+  },
+  {
+    "id": 4,
+    "title": "Real Estate Logo",
+    "category": "logo",
+    "image": "/images/Design/Logo-2.jpg",
+    "tags": ["logo"]
+  },
+  {
+    "id": 5,
+    "title": "Portfolio Website",
+    "category": "web",
+    "image": "/images/Design/Web-1.jpg",
+    "tags": ["website"]
+  },
+  {
+    "id": 6,
+    "title": "E-commerce Website",
+    "category": "web",
+    "image": "/images/Design/Web-2.jpg",
+    "tags": ["website"]
+  },
+  {
+    "id": 7,
+    "title": "Oasis Square Brochure",
+    "category": "print",
+    "image": "/images/Design/Print-7.jpg",
+    "tags": ["brochure"]
+  },
+  {
+    "id": 8,
+    "title": "Oasis Square Flyer",
+    "category": "print",
+    "image": "/images/Design/Print-8.jpg",
+    "tags": ["flyer"]
+  },
+  {
+    "id": 9,
+    "title": "BLL Flyer",
+    "category": "print",
+    "image": "/images/Design/Print-9.jpg",
+    "tags": ["flyer"]
+  },
+  {
+    "id": 10,
+    "title": "Car Rental Flyer",
+    "category": "print",
+    "image": "/images/Design/Print-10.jpg",
+    "tags": ["flyer"]
+  },
+  {
+    "id": 11,
+    "title": "Car Rental Envelope",
+    "category": "print",
+    "image": "/images/Design/Print-11.jpg",
+    "tags": ["envelope"]
+  },
+  {
+    "id": 12,
+    "title": "Bonjour Packaging",
+    "category": "print",
+    "image": "/images/Design/Print-12.jpg",
+    "tags": ["packaging"]
+  },
+
+  {
+    "id": 14,
+    "title": "AOB Consulting Pamphlet",
+    "category": "print",
+    "image": "/images/Design/Print-14.jpg",
+    "tags": ["pamphlet"]
+  },
+  {
+    "id": 15,
+    "title": "Oasis Square Brochure",
+    "category": "print",
+    "image": "/images/Design/Print-15.jpg",
+    "tags": ["brochure"]
+  },
+ 
+  {
+    "id": 17,
+    "title": "BLL Brochure",
+    "category": "print",
+    "image": "/images/Design/Print-17.jpg",
+    "tags": ["brochure"]
+  },
+  {
+    "id": 18,
+    "title": "Red Hat Book",
+    "category": "print",
+    "image": "/images/Design/Print-18.jpg",
+    "tags": ["book"]
+  }
+]
+
+
+

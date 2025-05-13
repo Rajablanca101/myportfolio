@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "title": "Framework 1",
+      "category": "Framework",
+      "image": "/images/UX/Framework/Framework1.jpg",
+      "description": "Framework 1"
+    },
+    {
+        "id": 1,
+        "title": "Framework 2",
+        "category": "Framework",
+        "image": "/images/UX/Framework/Framework2.jpg",
+        "description": "Framework 2"
+      },
+      {
+        "id": 1,
+        "title": "Framework 3",
+       "category": "Framework",
+        "image": "/images/UX/Framework/Framework3.jpg",
+        "description": "Framework 3"
+      }
+]

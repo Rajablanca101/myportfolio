@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Prototype 1",
+    "category": "Oceania-Prototype-Data",
+    "image": "/images/UX/Oceania-Prototype/Oceania-Prototype1.jpg",
+    "description": "Prototype 1"
+  },
+  {
+    "id": 2,
+    "title": "Protype 2",
+    "category": "Oceania-Prototype-Data",
+    "image": "/images/UX/Oceania-Prototype/Oceania-Prototype2.jpg",
+    "description": "Protype 2"
+  },
+  {
+    "id": 3,
+    "title": "Protype 3",
+    "category": "Oceania-Prototype-Data",
+    "image": "/images/UX/Oceania-Prototype/Oceania-Prototype3.jpg",
+    "description": "Protype 3"
+  },
+  {
+    "id": 4,
+    "title": "Protype 4",
+    "category": "Oceania-Prototype-Data",
+    "image": "/images/UX/Oceania-Prototype/Oceania-Prototype4.jpg",
+    "description": "Protype 4"
+  },
+  {
+    "id": 5,
+    "title": "Protype 5",
+    "category": "Oceania-Prototype-Data",
+    "image": "/images/UX/Oceania-Prototype/Oceania-Prototype5.jpg",
+    "description": "Protype 5"
+  },
+  {
+    "id": 6,
+    "title": "Protype 6",
+    "category": "Oceania-Prototype-Data",
+    "image": "/images/UX/Oceania-Prototype/Oceania-Prototype6.jpg",
+    "description": "Protype 6"
+  },
+  {
+    "id": 7,
+    "title": "Protype 7",
+    "category": "Oceania-Prototype-Data",
+    "image": "/images/UX/Oceania-Prototype/Oceania-Prototype7.jpg",
+    "description": "UI elements"
+  }
+]
+

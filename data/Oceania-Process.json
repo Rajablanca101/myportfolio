@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "title": "User Persona",
+    "category": "Oceania-Process-Data",
+    "image": "/images/UX/Oceania-Process/Oceania-Process1.png",
+    "description": "User Persona"
+  },
+  {
+    "id": 2,
+    "title": "Brainstorming",
+    "category": "Oceania-Process-Data",
+    "image": "/images/UX/Oceania-Process/Oceania-Process2.png",
+    "description": "Brainstorming"
+  },
+  {
+    "id": 3,
+    "title": "User Journey Map",
+    "category": "Oceania-Process-Data",
+    "image": "/images/UX/Oceania-Process/Oceania-Process3.png",
+    "description": "User Journey Map"
+  },
+  {
+    "id": 4,
+    "title": "Wireframe 1",
+    "category": "Oceania-Process-Data",
+    "image": "/images/UX/Oceania-Process/Oceania-Process4.png",
+    "description": "Wireframe 1"
+  },
+  {
+    "id": 5,
+    "title": "Wireframe 2",
+    "category": "Oceania-Process-Data",
+    "image": "/images/UX/Oceania-Process/Oceania-Process5.png",
+    "description": "Wireframe 2"
+  },
+  {
+    "id": 6,
+    "title": "Wireframe 3",
+    "category": "Oceania-Process-Data",
+    "image": "/images/UX/Oceania-Process/Oceania-Process6.png",
+    "description": "Wireframe 3"
+  },
+  {
+    "id": 7,
+    "title": "Wireframe 4",
+    "category": "Oceania-Process-Data",
+    "image": "/images/UX/Oceania-Process/Oceania-Process7.png",
+    "description": "Wireframe 4"
+  },
+  {
+    "id": 8,
+    "title": "Mockup 1",
+    "category": "Oceania-Process-Data",
+    "image": "/images/UX/Oceania-Process/Oceania-Process8.png",
+    "description": "Mockup 1"
+  },
+  {
+    "id": 9,
+    "title":  "Mockup 2",
+    "category": "Oceania-Process-Data",
+    "image": "/images/UX/Oceania-Process/Oceania-Process9.png",
+    "description": "Mockup 2"
+  },
+  {
+    "id": 10,
+    "title": "Mockup 3",
+    "category": "Oceania-Process-Data",
+    "image": "/images/UX/Oceania-Process/Oceania-Process10.png",
+    "description":  "Mockup 3"
+  },
+  {
+    "id": 10,
+    "title":  "Mockup 4",
+    "category": "Oceania-Process-Data",
+    "image": "/images/UX/Oceania-Process/Oceania-Process11.png",
+    "description":  "Mockup 4"
+  }
+]
